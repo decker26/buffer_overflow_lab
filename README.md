@@ -47,11 +47,6 @@ Welcome to the Buffer Overflow Exploit repository! This project showcases a Pyth
 
 - **Your Name:** [Your GitHub Profile](https://github.com/decker26)
   
-## Credits 🙏
-
-- **Inspiration:** [Source of Inspiration or Reference](https://source_of_inspiration.com)
-- **Special Thanks:** Mention any individuals or communities that provided support, guidance, or resources during the development of this project.
-
 ## Disclaimer ⚠️
 
 This exploit script is provided for educational purposes only. Do not engage in any illegal or malicious activities using this software. The author assumes no liability for any misuse of this tool.
