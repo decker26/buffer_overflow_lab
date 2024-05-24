@@ -31,7 +31,7 @@ Welcome to the Buffer Overflow Exploit repository! This project showcases a Pyth
 3. **Execute the Exploit Script:**
 
     ```bash
-    python3 exploit.py
+    python3 your_python_exploit.py
     ```
 
 4. **Follow the On-Screen Instructions:**
@@ -59,6 +59,3 @@ Contributions are welcome! If you encounter any bugs or have suggestions for imp
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this software according to the terms of the license.
 
----
-
-Feel free to add more sections or customize further to align with your preferences!
