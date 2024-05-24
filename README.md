@@ -45,7 +45,7 @@ Welcome to the Buffer Overflow Exploit repository! This project showcases a Pyth
 
 ## Author 🧑‍💻
 
-- **Your Name:** [Your GitHub Profile](https://github.com/decker26)
+- **Your Name:** [decker26](https://github.com/decker26)
   
 ## Disclaimer ⚠️
 
